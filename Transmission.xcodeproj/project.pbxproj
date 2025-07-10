@@ -481,7 +481,6 @@
 		A54D44C6A7AAF131D9AE29F5 /* block-info.cc */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "block-info.cc"; sourceTree = "<group>"; };
 		B00C80B22B1E34640087B129 /* route.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = route.h; sourceTree = "<group>"; };
 		B00C80B42B1E34AF0087B129 /* curl.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = curl.xcframework; path = "third-party/curl.xcframework"; sourceTree = "<group>"; };
-		B00C80D62B1E3A1F0087B129 /* curl.xcframework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcframework; name = curl.xcframework; path = "../transmission-legacy/third-party/curl.xcframework"; sourceTree = "<group>"; };
 		BE1183480CE160960002D0F3 /* libminiupnp.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = libminiupnp.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		BE11834E0CE160C50002D0F3 /* miniupnpc_declspec.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = miniupnpc_declspec.h; sourceTree = "<group>"; };
 		BE11834F0CE160C50002D0F3 /* igd_desc_parse.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = igd_desc_parse.h; sourceTree = "<group>"; };
@@ -977,7 +976,6 @@
 			isa = PBXGroup;
 			children = (
 				B00C80B42B1E34AF0087B129 /* curl.xcframework */,
-				B00C80D62B1E3A1F0087B129 /* curl.xcframework */,
 				C87369642809984200573C90 /* UserNotifications.framework */,
 				55869925257074EC00F77A43 /* libcurl.tbd */,
 				C88771AB2803EE53005C7523 /* libiconv.tbd */,
